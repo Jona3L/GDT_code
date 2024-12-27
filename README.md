@@ -8,10 +8,7 @@ Also modify the dataset path to the relative path to load it properly
   ```
   conda env create --file=conda_env.yml
   ```
-- Activate the environment:
-  ```
-  conda activate cbet
-  ```
+
 
   ### Getting the training datasets
 Datasets used for training will be uploaded to [this OSF link](https://osf.io/q3dx2).
